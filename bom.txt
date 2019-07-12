@@ -1,0 +1,13 @@
+ # | Component          | FARNELL | Reichelt
+ 2 | USB-C Socket       | 2924865 | 
+ 1 | ATmega328-PU       | 1972087 | ATMEGA 328P-PU
+30 | 1N4148             |         | 1N 4148
+ 2 | 3V6 Zener          |         | ZF 3,6
+30 | Cherry MX          |         | CHERRY DMX3AL1NN
+ 3 | Capacitor 100n     | 1100417 | Z5U-2,5 100N
+ 2 | Capacitor 22p      | 2860107 | KERKO 22P
+ 1 | Crystal 16Mhz      | 2063950 | IQD LFXTAL003240
+ 3 | Resistor 10k       |         | METALL 10,0K
+ 2 | Resistor 75R       |         | METALL 75,0
+ 1 | Resistor 1k5       |         | METALL 1,50K
+ 2 | Resistor 5k1       |         | METALL 5,10K
